@@ -1,5 +1,7 @@
 package com.hpit.demo;
 
+//打印等边三角型
+
 import java.util.Scanner;
 
 public class Demo3 {
